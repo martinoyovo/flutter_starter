@@ -1,6 +1,6 @@
 # flutter_starter
 
-Flutter empty template to start your project.
+Flutter empty template to help you start your project.
 
 ## PACKAGES
 Packages I've used
