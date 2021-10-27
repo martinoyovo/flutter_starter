@@ -8,6 +8,8 @@ Packages I've used
 - [ ] Shimmer
 - [ ] Shared Preferences
 - [ ] Gap
+- [ ] Flutter Localizations
+- [ ] Flutter Launcher Icons
 
 ### 😁 MORE
 Feel free to contribute.
