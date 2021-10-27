@@ -9,7 +9,7 @@ Packages I've used
 - [ ] Shared Preferences
 - [ ] Gap
 
-### 😁😁 MORE
+### 😁 MORE
 Feel free to contribute.
 
 
