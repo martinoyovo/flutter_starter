@@ -9,6 +9,7 @@ class Styles {
   static Color greyColor = Color(0xFFE0E0E0);
   static const Color bgColor = Color(0xFFF6F6F6);
   static TextStyle textStyle = TextStyle(fontSize: 15, fontFamily: "DMSans");
+  static TextStyle titleStyle = TextStyle(fontSize: 21, fontFamily: "DMSans");
 
   static Color getColor(String? c) => c == null ? primary : hexToColor(c);
   static TextStyle getOfferStyle(String? c) => TextStyle(fontWeight: FontWeight.bold, fontSize: 19, color: getColor(c));
